@@ -6,4 +6,5 @@
 - Gangs get sound and notify if capturing
 
 **Might add more gameplay soon**
+</br>
 Was thinking about a ganghouse in the gang area you can upgrade and so on...
